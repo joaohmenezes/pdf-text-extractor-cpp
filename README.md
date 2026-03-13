@@ -1,8 +1,8 @@
-📄 PDF Text Extractor \& Frequency Analyzer
+PDF Text Extractor \& Frequency Analyzer
 
 
 
-📌 About the Project
+About the Project
 
 This project is a C++ algorithm designed to read an entire directory containing PDF documents, extract their text content, and perform a detailed lexical analysis. 
 
@@ -12,7 +12,7 @@ This project is a C++ algorithm designed to read an entire directory containing 
 
 
 
-⚙️ How it Works \& Data Structures
+How it Works \& Data Structures
 
 The core logic of the program relies on efficient file handling and robust data structures:
 
@@ -26,7 +26,7 @@ The core logic of the program relies on efficient file handling and robust data 
 
 
 
-📊 Post-Processing Report
+Post-Processing Report
 
 After parsing all files in the directory, the system generates a terminal report detailing:
 
@@ -38,7 +38,7 @@ After parsing all files in the directory, the system generates a terminal report
 
 
 
-🛠️ Technologies \& Dependencies
+Technologies \& Dependencies
 
 \* \*\*C++11 or higher\*\*
 
