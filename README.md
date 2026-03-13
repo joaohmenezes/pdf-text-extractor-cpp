@@ -8,7 +8,7 @@ This project is a C++ algorithm designed to read an entire directory containing 
 
 
 
-\*\*Academic Context:\*\* Practical Project #1 developed for the Data Structures and Algorithms II (ECOI2206) course at the Federal University of Itajubá (UNIFEI)
+\*\*Academic Context:\*\* Practical Project #1 developed for the Data Structures and Algorithms II course at the Federal University of Itajubá (UNIFEI)
 
 
 
